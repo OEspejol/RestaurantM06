@@ -15,3 +15,9 @@
     height: 200px; /* Ajusta la altura según tus necesidades */
     object-fit: cover; /* Para que la imagen se ajuste correctamente */
   }
+  #ticket{
+    align-items: center;
+    width: 200px;
+    text-align: center;
+    left: 100px;
+  }
